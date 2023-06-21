@@ -1,5 +1,5 @@
 # Perfect Question Answering using GPT3 Embeddings
-## The answers are specifically correct. The embedding results are better than the fine-tuned results.
+## The embedding results are better than the fine-tuned results. The answers are specifically correct. 
 -------------------------------------------
 
 ### Training data:
