@@ -1,4 +1,4 @@
-## If we want to train LLM with specific Question-Answering, for example about specifict product, the embedding results are better than the fine-tuned results. The answers are specifically correct. 
+## If we want to train LLM with specific Question-Answering, for example about specifict product, the embedding results are better than the fine-tuned results. The answers are specifically correct.
 -------------------------------------------
 
 ### Training data:
