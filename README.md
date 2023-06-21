@@ -1,7 +1,7 @@
 # Perfect Question Answering using GPT3 Embeddings
 GPT3_Embedding_for_QuestionAnswering
 
-#### Training data:
+### Training data:
 
 Momo is a male Persian medium cat with orange fur who is cute, friendly, and mischievous. 
 He likes to climb and explore new areas of the house and gets excited when he sees a cockroach, trying to catch it if he can.  
