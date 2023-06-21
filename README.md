@@ -11,8 +11,8 @@ Momo was one year old when he met Momi, and he likes to eat wet cat food with fi
 Momi prefers dry cat food with seafood flavors.  
 They are both friendly towards strangers, but Momi is usually cautious and shy, while Momo is curious and outgoing.  
 
-'''def embed_qa2(question):
-    
+'''
+def embed_qa2(question):    
     prompt_embedding = get_embedding(question)
     df["prompt_similarity"] = df['embedding'].apply(lambda vector: vector_similarity(vector, prompt_embedding))
     summary = df.nlargest(1,'prompt_similarity').iloc[0]['summary'] 
@@ -32,9 +32,9 @@ They are both friendly towards strangers, but Momi is usually cautious and shy, 
 def answer_question_list2(questions):
     for question in questions:
         answer = embed_qa2(question)
-        print(f"Q: {question}\nA: {answer}\n")
-        
+        print(f"Q: {question}\nA: {answer}\n")        
 answer_question_list2(questions)
+
 '''
 
 Q: what happen to Momo's child?
