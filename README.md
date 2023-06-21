@@ -77,5 +77,3 @@ A: Orange.
 Q: What is Momi's color?
 
 A: White.
-
-### text-davinci-003 model seems better than text-ada-001
