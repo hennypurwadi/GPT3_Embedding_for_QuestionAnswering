@@ -1,4 +1,4 @@
-# GPT3 Embedding-based Question Answering: The Ideal Solution
+# Perfect Question Answering using GPT3 Embeddings
 GPT3_Embedding_for_QuestionAnswering
 
 #### Training data:
