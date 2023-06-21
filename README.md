@@ -1,4 +1,4 @@
-## If we want to train LLM with specific Question-Answering, for example about specifict product, the embedding results are better than the fine-tuned results. The answers are specifically correct.
+### When training a Language Model with a focus on Question-Answering, such as for a particular product, we observe that the embedding outcomes outperform the results obtained from fine-tuning. The answers obtained through embeddings are notably accurate and tailored to the specific context.
 -------------------------------------------
 
 ### Training data:
