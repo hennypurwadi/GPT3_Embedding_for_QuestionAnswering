@@ -1,4 +1,5 @@
-### When training a Language Model with a focus on Question-Answering, such as for a particular product, we observe that the embedding outcomes outperform the results obtained from fine-tuning. The answers obtained through embeddings are notably accurate and tailored to the specific context.
+### When training a Language Model with a focus on Question-Answering for a particular product, we observe that the embedding outcomes outperform the results obtained from fine-tuning. 
+The answers obtained through embeddings are more accurate and tailored to the specific context.
 -------------------------------------------
 
 ### Training data:
