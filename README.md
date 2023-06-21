@@ -2,7 +2,7 @@
 ### The answers obtained through embeddings are more accurate and tailored to the specific context.
 -------------------------------------------
 
-### Training data about my ex-cats: Momo and Momi
+### Training data is about my cats: Momo and Momi
 
 Momo is a male Persian medium cat with orange fur who is cute, friendly, and mischievous. 
 He likes to climb and explore new areas of the house and gets excited when he sees a cockroach, trying to catch it if he can.  
