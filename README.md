@@ -1,5 +1,5 @@
 # Perfect Question Answering using GPT3 Embeddings
-GPT3_Embedding_for_QuestionAnswering
+### The answer is specifically correct. 
 
 ### Training data:
 
@@ -39,33 +39,43 @@ answer_question_list2(questions)
 ```
 
 Q: what happen to Momo's child?
+
 A: Momo and Momi's first child has passed away.
 
 Q: who is Momi?
+
 A: Momi is a female cat.
 
 Q: Tell me relationship between Momo and Momi
+
 A: Momo and Momi are a couple.
 
 Q: Does Momi afraid of cockroaches?
+
 A: Yes, Momi is a bit scared of cockroaches.
 
 Q: What happen if Momo meet cockroaches??
+
 A: Momo gets very excited and tries to catch the cockroach.
 
 Q: Does Momi still alive?
+
 A: No, I cannot answer that question.
 
 Q: What happen if Momo meet stranger?
+
 A: Momo is curious and friendly towards strangers.
 
 Q: What happen if Momi meet stranger?
+
 A: Momi is usually shy and cautious around strangers.
 
 Q: What is Momo's color?
+
 A: Orange.
 
 Q: What is Momi's color?
+
 A: White.
 
-The answer is specifically correct. text-davinci-003 model seems better than text-ada-001
+### text-davinci-003 model seems better than text-ada-001
