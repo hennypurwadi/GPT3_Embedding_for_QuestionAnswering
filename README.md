@@ -1,5 +1,6 @@
 # Perfect Question Answering using GPT3 Embeddings
-## The answera are specifically correct. 
+## The answers are specifically correct. 
+-------------------------------------------
 
 ### Training data:
 
