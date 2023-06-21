@@ -35,7 +35,6 @@ def answer_question_list2(questions):
         print(f"Q: {question}\nA: {answer}\n")        
 answer_question_list2(questions)
 
-'''
 
 Q: what happen to Momo's child?
 A: Momo and Momi's first child has passed away.
