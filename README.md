@@ -28,12 +28,14 @@ They are both friendly towards strangers, but Momi is usually cautious and shy, 
         model="text-davinci-003"
     )
     return response["choices"][0]["text"].strip(" \n")
-
+    
 def answer_question_list2(questions):
     for question in questions:
         answer = embed_qa2(question)
         print(f"Q: {question}\nA: {answer}\n")
+        
 answer_question_list2(questions)
+'''
 
 Q: what happen to Momo's child?
 A: Momo and Momi's first child has passed away.
