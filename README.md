@@ -1,7 +1,8 @@
 # GPT3_Embedding_for_QuestionAnswering
 GPT3_Embedding_for_QuestionAnswering
 
-Training data:
+#### Training data:
+
 Momo is a male Persian medium cat with orange fur who is cute, friendly, and mischievous. 
 He likes to climb and explore new areas of the house and gets excited when he sees a cockroach, trying to catch it if he can.  
 Momi  is a female Per sian peaknose cat with white fur who is calm and shy. She prefers to nap underneath the bench and usually avoids cockroaches as she is a bit scared of them.  
