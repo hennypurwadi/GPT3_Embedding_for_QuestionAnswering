@@ -1,0 +1,12 @@
+streamlit
+pandas
+Pillow
+requests
+click
+PyPDF2
+numpy
+pandas
+openai
+openpyxl
+
+
